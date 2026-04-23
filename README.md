@@ -103,8 +103,8 @@ I'm a passionate **Junior Python Developer** and **Web Developer** focused on bu
 
 ## 🏆 Achievements
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Code-art-by-younas&theme=radical&no-frame=true&row=1&column=6&margin-w=15" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Code-art-by-younas&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
