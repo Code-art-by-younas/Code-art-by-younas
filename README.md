@@ -94,8 +94,6 @@ My work spans backend development, AI integration, automation systems, and scala
   <img src="https://github-profile-trophy.vercel.app/?username=Code-art-by-younas&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
----
-
 ## 📈 Activity Graph
 
 <p align="center">
